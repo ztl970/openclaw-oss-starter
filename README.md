@@ -51,6 +51,9 @@ A reusable skill template for a minimal family homework workflow:
 Directory:
 
 - `skills/family-homework-pomodoro/`
+- `skills/family-homework-pomodoro/SKILL.md` main skill entrypoint
+- `skills/family-homework-pomodoro/agents/openai.yaml` UI metadata
+- `skills/family-homework-pomodoro/README.md` human-readable overview
 
 Read more:
 

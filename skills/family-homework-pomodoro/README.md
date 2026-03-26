@@ -70,7 +70,11 @@ skills/
   family-homework-pomodoro/
     SKILL.md
     README.md
+    agents/
+      openai.yaml
 ```
+
+主入口是 `SKILL.md`，`README.md` 用于人类阅读，`agents/openai.yaml` 提供 UI 元数据。
 
 ---
 
