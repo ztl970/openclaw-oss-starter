@@ -6,31 +6,23 @@ version: 1.0.3
 
 # Mac Multi-Instance Deployment / Mac 多实例部署
 
-## Purpose
+Keep a generic Mac multi-instance workspace public-safe.
 
-Set up a generic Mac multi-instance workspace with clear boundaries.
+## Checklist
 
-## Core Workflow
+- `main`: routing and shared docs
+- `workbench`: active edits and tests
+- `publish`: release bundles
+- `archive`: snapshots and references
+- `private`: secrets and runtime state
+- Use placeholder paths in `config/local-multi-instance.example.env`
+- Review `references/instances.md`
+- Run `./validate_repo.sh`
+- Run `./generate_public_pack.sh --dry-run`
 
-1. Choose generic roles: `main`, `workbench`, `publish`, `archive`, `private`.
-2. Map each role to one workspace root.
-3. Keep shared docs in `main` and private runtime state in `private`.
-4. Update `config/local-multi-instance.example.env` with placeholder paths.
-5. Review `references/instances.md`.
-6. Run `./validate_repo.sh` and `./generate_public_pack.sh --dry-run`.
+## Guardrails
 
-## Rules
-
-- Keep names generic and public-safe.
-- Keep one instance per workspace root.
-- Keep release output separate from runtime state.
-- Never place secrets or personal data in public packs.
-
-## Validation
-
-Before sharing or releasing, confirm:
-
-- no private names or IDs are present
-- config paths are placeholders only
-- the instance map stays generic
-- the pack script excludes private files
+- Use generic labels only.
+- Keep one workspace root per role.
+- Keep private files out of public packs.
+- Keep runtime state local.

@@ -2,9 +2,7 @@
 
 ## 1.0.4 (planned)
 
-- Trim `SKILL.md` to a more compact execution version
-- Keep the template generic and Mac-only
-- Add a lighter release note for the next iteration
+- Shorten `SKILL.md` into a minimal execution checklist.
 
 ## 1.0.3
 
