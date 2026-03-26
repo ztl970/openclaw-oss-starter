@@ -3,7 +3,7 @@
 A public-safe OpenClaw skill for generic Mac-based multi-instance deployment,
 boundary setup, sample config, and packaging hygiene.
 
-Published on ClawHub as `mac-multi-instance-deployment@1.0.1`.
+Published on ClawHub as `mac-multi-instance-deployment@1.0.2`.
 
 ## What it does
 
