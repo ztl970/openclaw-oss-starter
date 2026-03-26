@@ -1,0 +1,8 @@
+interface:
+  display_name: "Feishu Marketing Publisher"
+  short_description: "Prepare concise public-safe launch posts for Feishu"
+  default_prompt: "Use $feishu-marketing-publisher to adapt approved project marketing copy for a Feishu or Lark post and prepare it for sending."
+
+policy:
+  allow_implicit_invocation: true
+
