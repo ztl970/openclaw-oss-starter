@@ -13,6 +13,7 @@ This folder shows one copyable local workflow pattern for `openclaw-oss-starter`
 ```bash
 ./validate_repo.sh
 ./cron/codex_quota_autoswitch.sh
+bash ./examples/pack_and_validate.sh
 ```
 
 ## What to copy
@@ -20,4 +21,3 @@ This folder shows one copyable local workflow pattern for `openclaw-oss-starter`
 - the public-safe repo layout
 - the validation habit
 - the routing/boundary doc pattern
-

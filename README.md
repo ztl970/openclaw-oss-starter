@@ -28,6 +28,7 @@ public docs, private runtime state, and routing rules.
 - `references/instances.md`: a quick index of the local OpenClaw instance layout
 - `rules-fix-20260323/`: boundary and routing notes for the local multi-instance setup
 - `examples/`: a copyable minimal workflow example
+- `examples/pack_and_validate.sh`: a runnable example that validates and builds a public pack
 - `INSTALL.md`: a short install and usage guide
 
 ## Current features
@@ -63,16 +64,21 @@ chmod +x cron/codex_quota_autoswitch.sh generate_public_pack.sh validate_repo.sh
 ./generate_public_pack.sh --list
 ./generate_public_pack.sh --dry-run
 ./generate_public_pack.sh --output-dir ./dist/public
+chmod +x examples/pack_and_validate.sh
+bash ./examples/pack_and_validate.sh
 ```
 
 If your environment does not support `--help` for the cron helper, run it
 without arguments and review the log at `~/.openclaw/logs/codex-quota-autoswitch.log`.
+For the combined example workflow, `bash ./examples/pack_and_validate.sh` is the
+most reliable invocation.
 
 ## Repository Layout
 
 - `cron/`: shell helpers for local automation
 - `config/`: sample config templates for local multi-instance setups
 - `examples/`: a copyable minimal workflow example
+- `examples/pack_and_validate.sh`: example script that validates and builds a public pack
 - `references/`: instance and routing references
 - `rules-fix-20260323/`: public-safe boundary and shared rule docs
 - `CHANGELOG.md`: release history and notable changes

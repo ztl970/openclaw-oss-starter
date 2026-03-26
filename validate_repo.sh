@@ -10,10 +10,12 @@ required=(
   "RELEASES.md"
   "cron/codex_quota_autoswitch.sh"
   "generate_public_pack.sh"
+  "examples/pack_and_validate.sh"
   "config/local-multi-instance.example.env"
   "examples/workflow.md"
   "releases/0.1.3.md"
   "releases/0.1.4.md"
+  "releases/0.1.5.md"
 )
 
 missing=0

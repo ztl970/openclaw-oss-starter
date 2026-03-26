@@ -20,6 +20,8 @@ chmod +x cron/codex_quota_autoswitch.sh generate_public_pack.sh validate_repo.sh
 ./generate_public_pack.sh --list
 ./generate_public_pack.sh --dry-run
 ./generate_public_pack.sh --output-dir ./dist/public
+chmod +x examples/pack_and_validate.sh
+bash ./examples/pack_and_validate.sh
 ```
 
 ## Optional
@@ -31,3 +33,4 @@ If you want to inspect the quota helper:
 ```
 
 If you want a packaged public bundle, copy the output from `dist/`.
+If you want the combined example flow, use `bash ./examples/pack_and_validate.sh`.
