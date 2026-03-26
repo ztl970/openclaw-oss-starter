@@ -1,5 +1,14 @@
 # Media Final Send
 
+## Recommended first short send
+
+Built `openclaw-oss-starter` into a public-safe OpenClaw skill collection for
+local AI workflows, covering daily tasks, homework, practice-session follow-up,
+and Mac multi-instance deployment.
+
+GitHub:
+https://github.com/ztl970/openclaw-oss-starter
+
 ## Recommended first send
 
 Built `openclaw-oss-starter` into a public-safe OpenClaw skill collection for
@@ -29,4 +38,3 @@ deployment templates.
 
 GitHub:
 https://github.com/ztl970/openclaw-oss-starter
-
