@@ -18,5 +18,6 @@ configured accounts.
 ## Recommended operating model
 
 - Use the `media` account for outward-facing project promotion and publishing sync.
-- Keep one Feishu group as the coordination channel for domestic social posting updates.
-- Let the designated domestic operator handle the actual account-side publishing after the Feishu sync message is prepared.
+- Keep one Feishu group as the coordination channel for publishing updates.
+- Let `media` cover AI-publishable or AI-assisted channels.
+- Let the designated domestic operator (`果爸`) handle Xiaohongshu after the Feishu sync message is prepared.
