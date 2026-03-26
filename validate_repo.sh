@@ -8,6 +8,8 @@ required=(
   "CHANGELOG.md"
   "RELEASES.md"
   "cron/codex_quota_autoswitch.sh"
+  "generate_public_pack.sh"
+  "config/local-multi-instance.example.env"
 )
 
 missing=0

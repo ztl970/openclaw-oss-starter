@@ -14,6 +14,8 @@ The format follows a lightweight keep-a-changelog style.
 - Repo validation helper
 - Minimal example workflow folder
 - Script help output for the quota switch helper
+- Public pack generator
+- Config template folder
 
 ## [0.1.0] - 2026-03-26
 
