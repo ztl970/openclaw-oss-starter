@@ -5,6 +5,7 @@ This folder shows a simple, public-safe Mac multi-instance setup flow.
 ## Files
 
 - [quickstart.md](./quickstart.md)
+- [dialog-example.md](./dialog-example.md)
 - [setup-example.md](./setup-example.md)
 - [routing-example.md](./routing-example.md)
 - [validation-example.md](./validation-example.md)
