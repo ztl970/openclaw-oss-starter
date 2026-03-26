@@ -121,11 +121,12 @@ A generic Mac deployment skill for setting up, naming, and validating multiple
 local OpenClaw-style workspaces.
 
 - Path: `skills/mac-multi-instance-deployment/`
-- Published on ClawHub: `mac-multi-instance-deployment@1.0.0`
+- Published on ClawHub: `mac-multi-instance-deployment@1.0.1`
 - Use cases:
   - generic Mac multi-instance workspace planning
   - public-safe boundary and index docs
   - sample config and packaging validation
+  - example-driven deployment walk-throughs
 
 ## Project Positioning
 
@@ -152,7 +153,8 @@ general-purpose reminder template and the easiest starting point for new
 users.
 
 The generic Mac multi-instance deployment skill is also published and serves
-as the repository's deployment-focused companion template.
+as the repository's deployment-focused companion template with concrete
+example flows.
 
 This repository will continue expanding with additional public-safe skill
 templates and documentation improvements.

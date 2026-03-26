@@ -3,7 +3,7 @@
 A public-safe OpenClaw skill for generic Mac-based multi-instance deployment,
 boundary setup, sample config, and packaging hygiene.
 
-Published on ClawHub as `mac-multi-instance-deployment@1.0.0`.
+Published on ClawHub as `mac-multi-instance-deployment@1.0.1`.
 
 ## What it does
 
@@ -49,6 +49,11 @@ skills/
     SKILL.md
     README.md
     CUSTOMIZATION.md
+    examples/
+      README.md
+      setup-example.md
+      routing-example.md
+      validation-example.md
     agents/
       openai.yaml
 ```
@@ -56,6 +61,16 @@ skills/
 `SKILL.md` is the main skill entrypoint. `README.md` is for human readers,
 `CUSTOMIZATION.md` describes safe adaptation patterns, and `agents/openai.yaml`
 provides UI metadata.
+
+## Examples
+
+The example pack shows one generic Mac multi-instance flow:
+
+- `setup-example.md` for workspace roots and instance labels
+- `routing-example.md` for where each instance should route work
+- `validation-example.md` for pack checks and public-safe validation
+
+For a quick index, see [examples/README.md](./examples/README.md).
 
 ## Support and customization
 

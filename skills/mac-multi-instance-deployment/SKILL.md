@@ -1,7 +1,7 @@
 ---
 name: mac-multi-instance-deployment
 description: Public-safe Mac multi-instance deployment skill for organizing local OpenClaw-style workspaces, boundaries, sample config, and packaging rules.
-version: 1.0.0
+version: 1.0.1
 ---
 
 # Mac Multi-Instance Deployment / Mac 多实例部署
@@ -109,6 +109,8 @@ Follow this sequence:
 6. validate the public pack contents
 7. adjust paths and labels before release if anything is too specific
 
+For concrete examples, see [examples/](./examples/) and [examples/README.md](./examples/README.md).
+
 ---
 
 ## Recommended Structure
@@ -130,4 +132,3 @@ Before sharing or releasing:
 - confirm the env sample uses placeholders only
 - confirm the pack script includes public-safe files only
 - confirm the instance index uses generic labels
-
