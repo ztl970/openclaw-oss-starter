@@ -39,3 +39,23 @@ Keep this skill public-safe:
 - no group IDs or account IDs
 - no private schedules tied to identity
 - no sensitive personal or health information
+
+## Examples
+
+### Sender example
+
+- Sender: `Today the practice task is piano scales for 20 minutes.`
+- Assistant: `Recorded as provided. What time should practice begin today?`
+
+### Reminder example
+
+- Assistant: `It is time to begin today's practice.`
+- Assistant: `Please start the session now.`
+
+### Completion example
+
+- Assistant: `Was the practice completed?`
+- Sender: `Not yet, there is one section left.`
+- Assistant: `Understood. I will record that the session is unfinished and ask how you would like to continue later.`
+
+For the full example files, see [examples/](./examples/).
