@@ -72,3 +72,5 @@ For a more detailed customization checklist, see
 [CUSTOMIZATION.md](./CUSTOMIZATION.md).
 
 For planned version notes, see [CHANGELOG.md](./CHANGELOG.md).
+
+For the next structured release note, see [releases/1.0.1.md](./releases/1.0.1.md).
