@@ -1,4 +1,6 @@
-# OpenClaw Instances
+# Mac Multi-Instance Layout
+
+This file is a public-safe index for a generic Mac multi-instance setup.
 
 ## main
 - system entry
@@ -7,20 +9,26 @@
 - bridge/tool definitions
 - do not use as a catch-all execution area
 
-## family
-- family operations
-- child study rules
-- family archives
-- family collaboration
+## workbench
+- active local work
+- drafting and testing
+- short-lived experiments
+- do not use for long-term archive state
 
-## media
-- media structure
-- content project coordination
-- publishing support
-- archive placement
+## publish
+- release-ready output
+- public-safe packaging
+- validated bundles
+- no private runtime files
 
-## business
-- business operations
-- customer projects
-- templates and rules
-- output deliverables
+## archive
+- long-term snapshots
+- read-only history
+- reference material
+- not for active execution
+
+## private
+- local-only notes
+- runtime state
+- secrets and credentials
+- never include in public packs

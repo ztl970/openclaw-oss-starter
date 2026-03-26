@@ -14,8 +14,8 @@ You want to keep a local AI workspace organized with a clear boundary between:
 
 ## Steps
 
-1. Read the routing docs in `references/instances.md`.
-2. Review the boundary docs in `rules-fix-20260323/`.
+1. Read the generic instance layout in `references/instances.md`.
+2. Review `skills/mac-multi-instance-deployment/` for the deployment skill.
 3. Run `./validate_repo.sh` to verify the public-safe file set.
 4. Run `./generate_public_pack.sh` to produce a release-ready bundle.
 5. If Codex quota is low, use `./cron/codex_quota_autoswitch.sh`.
