@@ -1,0 +1,19 @@
+# Security Policy
+
+## What not to commit
+
+- API keys
+- personal access tokens
+- private memory files
+- heartbeat state
+- internal workspace-only instructions
+
+## Reporting issues
+
+If you find something that should not be public in this repository, open an
+issue or pull request and describe the file or pattern that needs to be
+removed.
+
+## Scope
+
+This repository is a public starter scaffold. Treat it as public from the start.
