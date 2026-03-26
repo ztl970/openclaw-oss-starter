@@ -5,6 +5,13 @@ Public-safe OpenClaw skill templates for local AI coordination workflows.
 This repository focuses on structured task intake, confirmation logic,
 reminder orchestration, and parent-approved execution flows.
 
+## Project Pitch
+
+This repository maintains a small, public-safe skill collection for local AI
+coordination. It combines reusable workflow templates, clear boundary docs,
+and ClawHub-published skills so the public repo can serve both as a reference
+implementation and as a practical starting point for new workflows.
+
 ## What this project solves
 
 - public-safe local AI workflow templates
@@ -102,6 +109,12 @@ Read more:
 The public repository is the reference version: it is free to clone, inspect,
 and adapt for your own workflows.
 
+Why it matters:
+
+- it shows how to publish public-safe skills without exposing private runtime state
+- it demonstrates a reusable pattern for family and task coordination workflows
+- it gives a concrete path from local OpenClaw templates to ClawHub publication
+
 If you want a tailored implementation, the most natural paid paths are:
 
 - repository review and public-safe hardening
@@ -116,5 +129,5 @@ paid services, consulting, or sponsored maintenance.
 
 Published on ClawHub:
 
-- [family-homework-pomodoro](https://clawhub.ai)
-- [daily-task-checkin](https://clawhub.ai)
+- family-homework-pomodoro
+- daily-task-checkin
