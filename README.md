@@ -90,12 +90,37 @@ Read more:
 - [README](./skills/daily-task-checkin/README.md)
 - [SKILL.md](./skills/daily-task-checkin/SKILL.md)
 
+### practice-session-checkin / 专项练习打卡助手
+
+A reusable skill template for a simple structured practice loop:
+
+- receive a practice task
+- record the task without assumptions
+- confirm the start time before reminders
+- send a start reminder at the confirmed time
+- check whether the practice was completed
+- track follow-up if unfinished
+
+Directory:
+
+- `skills/practice-session-checkin/`
+- `skills/practice-session-checkin/SKILL.md` main skill entrypoint
+- `skills/practice-session-checkin/agents/openai.yaml` UI metadata
+- `skills/practice-session-checkin/README.md` human-readable overview
+
+Read more:
+
+- [README](./skills/practice-session-checkin/README.md)
+- [SKILL.md](./skills/practice-session-checkin/SKILL.md)
+
 ## Published to ClawHub
 
 - `family-homework-pomodoro@1.0.1`
 - This skill is public-safe and reusable as a generic family workflow template
 - `daily-task-checkin@1.0.2`
 - Both skills are public-safe and reusable as generic workflow templates
+- `practice-session-checkin@1.0.0`
+- All three skills are public-safe and reusable as generic workflow templates
 
 ## Roadmap
 
@@ -103,6 +128,7 @@ Read more:
 - improve customization docs
 - support broader coordination workflows
 - keep adding public-safe skill templates
+- continue expanding the practice workflow family
 
 ## Public release and support
 
