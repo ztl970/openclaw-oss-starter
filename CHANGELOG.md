@@ -6,10 +6,10 @@ The format follows a lightweight keep-a-changelog style.
 
 ## [Unreleased]
 
-- Public repository scaffold
-- OpenClaw-style boundary and routing references
-- Quota-aware agent switch helper
-- Public safety docs and repository metadata
+- Future work on installation docs, workflow packs, and repo polish
+
+## [0.1.1] - 2026-03-26
+
 - More direct README problem statement
 - Repo validation helper
 - Minimal example workflow folder
