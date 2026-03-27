@@ -25,3 +25,4 @@ publishing copy, and application materials.
 - `MAIN_PERIODIC_SYNC.md` for periodic sync usage
 - `12-command-library.md` for reusable `main` command patterns
 - `13-evergreen-publishing-checklist.md` for long-term publishing routines
+- `14-automation-and-check-rules.md` for recurring automation and inspection rules
