@@ -39,6 +39,10 @@ chat window.
 3. 输出发布结果、链接和需要人工确认的事项。
 ```
 
+For the full checklist and sequence, see:
+
+- [MAIN_NEW_SKILL_FLOW.md](/Users/ztl/Documents/New project/marketing/feishu/knowledge-base/MAIN_NEW_SKILL_FLOW.md)
+
 ## Marketing update
 
 ```text

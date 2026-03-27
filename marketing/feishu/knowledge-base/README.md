@@ -15,6 +15,8 @@ publishing copy, and application materials.
 - `run_main_dispatch.sh` for main-hub orchestration
 - `MAIN_DISPATCH.md` for main dispatch usage
 - `MAIN_CHAT_COMMANDS.md` for Feishu `main` chat templates
+- `MAIN_GITHUB_RESPONSIBILITIES.md` for `main`-side GitHub ownership
+- `MAIN_NEW_SKILL_FLOW.md` for standard new skill handling
 - `MAIN_ROUTING_RULES.md` for message classification and dispatch rules
 - `run_main_publish_flow.sh` for a broader main-led publish flow
 - `MAIN_PUBLISH_FLOW.md` for publish-flow usage
