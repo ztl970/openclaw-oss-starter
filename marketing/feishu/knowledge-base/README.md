@@ -42,6 +42,7 @@ publishing copy, and application materials.
 - `29-local-only-content-management.md` for local-only content handling
 - `30-public-pipeline-sequence.md` for public release order
 - `31-version-update-trigger-rules.md` for version-sync triggers
+- `33-minimum-public-sync-actions.md` for the smallest required public sync set
 - `30-unified-ops-group-rules.md` for unified Feishu ops-group collaboration rules
 - `31-ops-group-applicability-matrix.md` for group ownership and applicability mapping
 - `32-standard-group-message-templates.md` for reusable in-group structured message templates
