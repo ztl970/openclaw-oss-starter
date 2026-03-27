@@ -38,3 +38,5 @@ publishing copy, and application materials.
 - `25-do-not-publish-list.md` for hard non-public content rules
 - `26-skill-tiering-rules.md` for publishability tiers
 - `27-publishing-decision-template.md` for standard publish decisions
+- `28-skill-publishing-approval-flow.md` for approval sequencing
+- `29-local-only-content-management.md` for local-only content handling
