@@ -9,6 +9,14 @@ Codex work.
 - `media`: local execution instance
 - `小果`: Feishu bot name used by `media`
 
+## Default repository context
+
+Unless the user explicitly names another repository, `main` should assume:
+
+- local repository path: `/Users/ztl/Documents/New project`
+- GitHub repository: `ztl970/openclaw-oss-starter`
+- default branch: `main`
+
 ## Routing classes
 
 ### 1. Knowledge-base tasks

@@ -6,6 +6,14 @@ Use this page as the default rule for GitHub-facing project work.
 
 All GitHub project work should enter through `main` first.
 
+Default assumption:
+
+- local repository path: `/Users/ztl/Documents/New project`
+- GitHub repository: `ztl970/openclaw-oss-starter`
+
+If the user does not name another repository, `main` should use this project
+context by default instead of blocking for missing repo identity.
+
 `main` is responsible for:
 
 - receiving the request
@@ -50,3 +58,7 @@ If a task affects the repository, start with `main`.
 
 If a task affects public presentation after repository work is done, let `main`
 dispatch that part to `media`.
+
+For the default repository context, see:
+
+- [MAIN_PROJECT_CONTEXT.md](/Users/ztl/Documents/New project/marketing/feishu/knowledge-base/MAIN_PROJECT_CONTEXT.md)

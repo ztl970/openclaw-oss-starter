@@ -13,6 +13,11 @@ Let `main` control the full lifecycle of a new skill:
 - public release sync
 - knowledge-base update
 
+Default repository context:
+
+- local repository path: `/Users/ztl/Documents/New project`
+- GitHub repository: `ztl970/openclaw-oss-starter`
+
 ## Standard flow
 
 1. `main` receives the request for a new skill

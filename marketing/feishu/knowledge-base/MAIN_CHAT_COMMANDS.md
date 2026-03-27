@@ -9,6 +9,12 @@ chat window.
 - `media` is the local execution instance
 - `小果` is the Feishu bot name used by `media`
 
+Default project context:
+
+- local repository path: `/Users/ztl/Documents/New project`
+- GitHub repository: `ztl970/openclaw-oss-starter`
+- if no other repo is named, `main` should use this one
+
 ## Knowledge-base sync
 
 ```text
@@ -24,7 +30,7 @@ chat window.
 ```text
 请从 main 派发一次项目发布检查，交给 media 执行。
 要求：
-1. 检查 GitHub README、ClawHub 版本、飞书知识库页面是否需要同步。
+1. 默认按 openclaw-oss-starter 项目处理，检查 GitHub README、ClawHub 版本、飞书知识库页面是否需要同步。
 2. 如果需要同步，先整理差异，再执行更新。
 3. 最后返回执行结果和后续建议。
 ```
@@ -58,7 +64,7 @@ For the full checklist and sequence, see:
 ```text
 请从 main 处理一次代码任务。
 要求：
-1. 先在本地仓库完成代码或文档修改。
+1. 默认在 /Users/ztl/Documents/New project 对应的 openclaw-oss-starter 仓库内完成代码或文档修改。
 2. 如果修改影响 GitHub 展示、ClawHub 描述或飞书知识库，再派发给 media 做同步。
 3. 最后返回代码变更和公开同步结果。
 ```
