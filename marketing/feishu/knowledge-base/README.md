@@ -34,3 +34,5 @@ publishing copy, and application materials.
 - `19-publishing-execution-checklist.md` for cross-platform publishing checks
 - `22-public-safe-skill-rules.md` for public-safe publish rules
 - `23-prepublish-checklist.md` for pre-publish review
+- `24-publishable-skill-candidate-pool.md` for future public skill candidates
+- `25-do-not-publish-list.md` for hard non-public content rules
