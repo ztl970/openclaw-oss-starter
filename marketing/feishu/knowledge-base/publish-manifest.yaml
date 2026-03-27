@@ -4,22 +4,27 @@ channel: feishu
 target:
   wiki_space: "<fill-wiki-space-or-use-wiki-node>"
   wiki_node: "<optional-parent-node>"
+  routing_file: "marketing/feishu/knowledge-base/directory-rules.yaml"
 mode: create_or_update
 pages:
   - key: project_overview
     title: "项目总览"
     source: "marketing/feishu/knowledge-base/01-project-overview.md"
     order: 1
+    directory: "project_status"
   - key: publishing_copy
     title: "对外发布文案"
     source: "marketing/feishu/knowledge-base/02-publishing-copy.md"
     order: 2
+    directory: "publishing_assets"
   - key: application_materials
     title: "申请与介绍素材"
     source: "marketing/feishu/knowledge-base/03-application-materials.md"
     order: 3
+    directory: "application_assets"
 rules:
   - "publish only after target wiki token is explicit"
   - "use xiaoguo for knowledge-base execution"
   - "keep content public-safe"
+  - "route each page by directory-rules.yaml before publishing"
   - "return created or updated doc URLs"
