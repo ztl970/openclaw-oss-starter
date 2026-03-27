@@ -8,3 +8,5 @@ publishing copy, and application materials.
 - `01-project-overview.md`
 - `02-publishing-copy.md`
 - `03-application-materials.md`
+- `run_media_sync.sh` for media-side sync
+- `MEDIA_SYNC.md` for command usage
