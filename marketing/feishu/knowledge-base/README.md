@@ -10,3 +10,7 @@ publishing copy, and application materials.
 - `03-application-materials.md`
 - `run_media_sync.sh` for media-side sync
 - `MEDIA_SYNC.md` for command usage
+- `run_xiaoguo_sync.sh` for maintenance-style sync
+- `XIAOGUO_SYNC.md` for maintenance command usage
+- `run_main_dispatch.sh` for main-hub orchestration
+- `MAIN_DISPATCH.md` for main dispatch usage
