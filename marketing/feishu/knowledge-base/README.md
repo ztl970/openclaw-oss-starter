@@ -26,3 +26,5 @@ publishing copy, and application materials.
 - `12-command-library.md` for reusable `main` command patterns
 - `13-evergreen-publishing-checklist.md` for long-term publishing routines
 - `14-automation-and-check-rules.md` for recurring automation and inspection rules
+- `15-dual-hub-maintenance-rules.md` for long-term GitHub + Feishu maintenance
+- `MAIN_DAILY_SHORT_COMMANDS.md` for quick Feishu `main` commands
