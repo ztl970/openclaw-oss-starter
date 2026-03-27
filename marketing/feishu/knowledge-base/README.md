@@ -28,3 +28,5 @@ publishing copy, and application materials.
 - `14-automation-and-check-rules.md` for recurring automation and inspection rules
 - `15-dual-hub-maintenance-rules.md` for long-term GitHub + Feishu maintenance
 - `MAIN_DAILY_SHORT_COMMANDS.md` for quick Feishu `main` commands
+- `16-standard-report-template.md` for consistent task summaries
+- `17-blocker-and-exception-rules.md` for blocker handling and fallback rules
