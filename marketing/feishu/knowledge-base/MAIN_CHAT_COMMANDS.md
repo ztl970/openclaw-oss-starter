@@ -48,3 +48,13 @@ chat window.
 2. 更新知识库中的对外发布文案页。
 3. 给出适合 Feishu、X、小红书的短版摘要。
 ```
+
+## Code task with public sync
+
+```text
+请从 main 处理一次代码任务。
+要求：
+1. 先在本地仓库完成代码或文档修改。
+2. 如果修改影响 GitHub 展示、ClawHub 描述或飞书知识库，再派发给 media 做同步。
+3. 最后返回代码变更和公开同步结果。
+```
