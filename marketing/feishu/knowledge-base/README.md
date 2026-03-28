@@ -49,3 +49,5 @@ publishing copy, and application materials.
 - `30-unified-ops-group-rules.md` for unified Feishu ops-group collaboration rules
 - `31-ops-group-applicability-matrix.md` for group ownership and applicability mapping
 - `32-standard-group-message-templates.md` for reusable in-group structured message templates
+- `39-daily-work-handover-checklist.md` for daily-work takeover steps
+- `40-daily-work-boundary-matrix.md` for daily-work boundaries
