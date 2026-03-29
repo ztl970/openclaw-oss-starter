@@ -53,3 +53,5 @@ publishing copy, and application materials.
 - `40-daily-work-boundary-matrix.md` for daily-work boundaries
 - `41-github-clawhub-update-rhythm.md` for the GitHub vs ClawHub update cadence
 - `42-main-github-clawhub-routing-command.md` for the standard main-side routing command
+- `43-feishu-knowledge-base-sync-trigger-rules.md` for when Feishu KB should also be updated
+- `44-main-sync-scope-decision-field.md` for the standard sync-scope field in main reports
