@@ -60,3 +60,4 @@ publishing copy, and application materials.
 - `47-main-ultra-short-commands.md` for ultra-short commands that should work in the formal hub group
 - `48-multi-project-daily-check-rules.md` for multi-project daily review rules
 - `49-project-sensitivity-and-commercial-rules.md` for project sensitivity and commercialization boundaries
+- `50-multi-project-report-template.md` for project-by-project daily check reporting
