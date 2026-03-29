@@ -4,6 +4,7 @@ Short copy for pinned repositories, profile intros, and repository metadata.
 
 ## Files
 
+- `../unified/public-facing-intros.md` for shared GitHub, ClawHub, and Feishu-facing intros
 - `short-descriptions.md` for concise GitHub-ready summaries
 - `pinned-repo-plan.md` for profile pinning guidance
 - `final-profile-setup-checklist.md` for final GitHub profile polish steps
