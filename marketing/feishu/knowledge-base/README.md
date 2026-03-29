@@ -55,3 +55,4 @@ publishing copy, and application materials.
 - `42-main-github-clawhub-routing-command.md` for the standard main-side routing command
 - `43-feishu-knowledge-base-sync-trigger-rules.md` for when Feishu KB should also be updated
 - `44-main-sync-scope-decision-field.md` for the standard sync-scope field in main reports
+- `45-daily-github-worthiness-review.md` for deciding what from today should reach GitHub

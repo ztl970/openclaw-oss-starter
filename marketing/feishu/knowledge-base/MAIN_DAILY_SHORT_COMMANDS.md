@@ -58,6 +58,19 @@ Use these short commands in the Feishu `main` chat window for routine work.
 - 检查双 hub 是否一致
 - 整理下一步待办
 
+## 6. 今日哪些值得更新到 GitHub
+
+```text
+请从 main 回看今天 openclaw-oss-starter 的工作，判断哪些值得更新到 GitHub。
+```
+
+含义：
+
+- 只看默认项目今天的实际工作结果
+- 不看泛化聊天，不看抽象“自己的一天”
+- 先判断公开价值，再判断同步范围
+- 必须回报 `同步范围判断`
+
 ## 使用建议
 
 - 日常对话优先用短指令
