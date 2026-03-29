@@ -61,3 +61,6 @@ publishing copy, and application materials.
 - `48-multi-project-daily-check-rules.md` for multi-project daily review rules
 - `49-project-sensitivity-and-commercial-rules.md` for project sensitivity and commercialization boundaries
 - `50-multi-project-report-template.md` for project-by-project daily check reporting
+- `51-project-registry-rule.md` for using a project registry instead of folder scanning
+- `52-no-global-scan-rule.md` for blocking main from scanning the home directory by default
+- `53-main-project-registry-command.md` for the registry-based daily-check command
