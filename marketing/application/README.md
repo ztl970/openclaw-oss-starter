@@ -10,3 +10,4 @@ submissions, grant forms, and profile-based applications.
 - `codex-application-final.md` for the current polished application pack
 - `codex-application-form-answers.md` for short direct form answers
 - `codex-application-ultra-short.md` for tight word-limit form answers
+- `codex-openai-form-fillout.md` for field-by-field copy-paste answers
