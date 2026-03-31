@@ -5,9 +5,10 @@
 `openclaw-oss-starter` is a public-safe OpenClaw skill collection for local AI
 coordination workflows. The repository maintains reusable templates for
 structured task intake, confirmation-based execution, reminder orchestration,
-completion tracking, and Mac multi-instance deployment. It is designed to keep
-private runtime state local while publishing reusable workflow patterns,
-documentation, and skills that others can adapt safely.
+completion tracking, Mac multi-instance deployment, and public-safe Feishu
+coordination templates. It is designed to keep private runtime state local
+while publishing reusable workflow patterns, documentation, and skills that
+others can adapt safely.
 
 ## Slightly expanded version
 
@@ -16,9 +17,10 @@ coordination with OpenClaw-style skills and reusable automation patterns. The
 project focuses on turning practical local workflows into reusable public-safe
 templates without exposing private runtime state, personal identities, or
 sensitive operating details. Current areas include daily task check-ins, family
-homework coordination, practice-session reminders, and Mac multi-instance
-deployment. The repository is also used to publish selected skills to ClawHub
-and to document repeatable patterns for adaptation by other operators.
+homework coordination, practice-session reminders, Mac multi-instance
+deployment, and public-safe Feishu coordination/message templates. The repository is
+also used to publish selected skills to ClawHub and to document repeatable
+patterns for adaptation by other operators.
 
 ## Why this repository qualifies
 
@@ -41,4 +43,5 @@ AI operators while keeping the public version privacy-safe and easy to adapt.
 
 Public-safe OpenClaw skill collection for local AI coordination workflows,
 including reusable templates for task check-ins, homework coordination,
-practice-session reminders, and Mac multi-instance deployment.
+practice-session reminders, Mac multi-instance deployment, and public-safe
+Feishu coordination templates.

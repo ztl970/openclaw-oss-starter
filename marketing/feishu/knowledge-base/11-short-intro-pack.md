@@ -14,17 +14,17 @@ A public-safe OpenClaw skill collection for local AI coordination workflows.
 
 ## 英文短介绍
 
-`openclaw-oss-starter` is a public-safe OpenClaw skill collection for local AI coordination workflows, including reusable templates for tasks, homework coordination, practice-session follow-up, and Mac multi-instance deployment.
+`openclaw-oss-starter` is a public-safe OpenClaw skill collection for local AI coordination workflows, including reusable templates for tasks, homework coordination, practice-session follow-up, Mac multi-instance deployment, and Feishu coordination.
 
 ## 适合复制到不同地方的短版
 
 ### GitHub / 简介
 
-Public-safe OpenClaw skills for local AI coordination and deployment.
+Public-safe OpenClaw skills for local AI coordination, deployment, and Feishu workflow templates.
 
 ### Feishu / 群介绍
 
-这是一个已经公开整理并持续维护的 OpenClaw 项目模板库，适合本地 AI 工作流、任务协同和多实例部署参考。
+这是一个已经公开整理并持续维护的 OpenClaw 项目模板库，适合本地 AI 工作流、任务协同、多实例部署和飞书协同模板参考。
 
 ### 小红书 / 中文短介绍
 
@@ -32,4 +32,4 @@ Public-safe OpenClaw skills for local AI coordination and deployment.
 
 ### 申请摘要
 
-Public-safe OpenClaw skill collection for local AI coordination workflows, including reusable templates for task check-ins, homework coordination, practice-session reminders, and Mac multi-instance deployment.
+Public-safe OpenClaw skill collection for local AI coordination workflows, including reusable templates for task check-ins, homework coordination, practice-session reminders, Mac multi-instance deployment, and Feishu coordination.

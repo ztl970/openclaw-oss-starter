@@ -17,6 +17,7 @@
 - 家庭作业协同
 - 专项练习打卡
 - Mac 多实例部署
+- public-safe 飞书协同模板
 
 ## 当前代表性 skills
 
@@ -25,11 +26,17 @@
 - `practice-session-checkin`
 - `mac-multi-instance-deployment`
 
+## 当前公开模板补充
+
+- `36-public-safe-ops-message-templates.md`
+- public-safe 飞书协同与结构化消息模板
+
 ## 对外发布状态
 
 - GitHub 仓库已公开
 - 多个 skill 已发布到 ClawHub
 - 当前已经整理出面向 Feishu、小红书、X 和长文渠道的营销素材
+- 已补充一组适合继续沉淀到知识库的 public-safe 飞书协同模板
 
 ## 项目地址
 
