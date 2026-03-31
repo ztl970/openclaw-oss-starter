@@ -4,7 +4,7 @@
 
 Built `openclaw-oss-starter` into a public-safe OpenClaw skill collection for
 local AI workflows, covering daily tasks, homework, practice-session follow-up,
-and Mac multi-instance deployment.
+Mac multi-instance deployment, and reusable Feishu coordination templates.
 
 GitHub:
 https://github.com/ztl970/openclaw-oss-starter
@@ -26,6 +26,7 @@ The direction is simple:
 - keep runtime state private
 - make reusable workflow templates public
 - publish practical skills to ClawHub
+- add public-safe Feishu coordination templates when they can be abstracted safely
 
 GitHub:
 https://github.com/ztl970/openclaw-oss-starter
@@ -38,7 +39,7 @@ https://github.com/ztl970/openclaw-oss-starter
 
 ### Subtitle
 
-覆盖任务打卡、家庭作业、专项练习、Mac 多实例部署
+覆盖任务打卡、家庭作业、专项练习、Mac 多实例部署与飞书协同模板
 
 ### Short body
 
