@@ -6,6 +6,8 @@ The format follows a lightweight keep-a-changelog style.
 
 ## [Unreleased]
 
+- Added a GitHub-first public-safe skill for credit-safe Google Vertex AI setup
+- Added repository and knowledge-base references for the new Vertex setup skill
 - Quota-aware switching now uses public-safe config variables for threshold,
   target model, and agent list defaults
 - README and Feishu knowledge-base docs now foreground the public-safe
