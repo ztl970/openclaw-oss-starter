@@ -18,9 +18,13 @@ required=(
   "releases/0.1.5.md"
   "releases/0.1.6.md"
   "releases/0.1.7.md"
+  "releases/0.1.8.md"
   "skills/family-homework-pomodoro/SKILL.md"
   "skills/family-homework-pomodoro/README.md"
   "skills/family-homework-pomodoro/agents/openai.yaml"
+  "skills/openclaw-vertex-credit-safe-setup/SKILL.md"
+  "skills/openclaw-vertex-credit-safe-setup/README.md"
+  "skills/openclaw-vertex-credit-safe-setup/agents/openai.yaml"
 )
 
 missing=0

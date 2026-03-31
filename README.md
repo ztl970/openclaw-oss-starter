@@ -101,6 +101,7 @@ Current focus areas include:
 - daily task check-ins
 - practice session reminders
 - Mac multi-instance deployment
+- credit-safe Google Vertex AI setup
 - public-safe Feishu knowledge-base and structured coordination templates
 - confirmation-based task flows
 - completion tracking and follow-up
@@ -113,6 +114,7 @@ Current focus areas include:
 | `daily-task-checkin` | Lightweight task intake, reminders, completion confirmation, and follow-up coordination | `1.0.2` | [`skills/daily-task-checkin/`](./skills/daily-task-checkin/) |
 | `practice-session-checkin` | Structured practice intake, start confirmation, reminder flow, and follow-up tracking | `1.0.1` | [`skills/practice-session-checkin/`](./skills/practice-session-checkin/) |
 | `mac-multi-instance-deployment` | Generic Mac workspace setup, boundary docs, quickstart examples, and deployment validation | `1.0.4` | [`skills/mac-multi-instance-deployment/`](./skills/mac-multi-instance-deployment/) |
+| `openclaw-vertex-credit-safe-setup` | Google Vertex AI setup with service-account JSON, tiny verification, and billing checks | `not yet` | [`skills/openclaw-vertex-credit-safe-setup/`](./skills/openclaw-vertex-credit-safe-setup/) |
 
 ### Featured Entry Point
 
@@ -127,6 +129,13 @@ coordination.
 is the deployment-focused companion template. It gives this repository a
 practical setup layer, not just a documentation layer.
 
+### Cloud Setup Companion
+
+[`openclaw-vertex-credit-safe-setup`](./skills/openclaw-vertex-credit-safe-setup/README.md)
+is the cloud-setup companion template. It keeps first-time Vertex AI setup on a
+public-safe path with local-only credentials, one small verification request,
+and explicit billing checks.
+
 ## Project Positioning
 
 This repository is intended as a public-safe skill collection for local AI
@@ -139,6 +148,7 @@ It focuses on reusable patterns such as:
 - reminder orchestration
 - completion checks
 - Mac multi-instance deployment
+- credit-safe Google Vertex AI setup
 - public-safe Feishu coordination docs and structured message templates
 - approval-based follow-up
 - privacy-safe workflow design

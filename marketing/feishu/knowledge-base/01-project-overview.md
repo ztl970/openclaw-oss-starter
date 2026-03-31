@@ -17,6 +17,7 @@
 - 家庭作业协同
 - 专项练习打卡
 - Mac 多实例部署
+- Google Vertex AI 安全接入
 - public-safe 飞书协同模板
 
 ## 当前代表性 skills
@@ -25,6 +26,7 @@
 - `family-homework-pomodoro`
 - `practice-session-checkin`
 - `mac-multi-instance-deployment`
+- `openclaw-vertex-credit-safe-setup`
 
 ## 当前公开模板补充
 
