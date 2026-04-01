@@ -8,3 +8,4 @@ Drafts and rewrites for domestic publishing based on the same project launch.
 - `2026-04-01-vertex-credit-note-pack.md` for the Vertex credit note pack and cover directions
 - `../../assets/xiaohongshu/2026-04-01-vertex-credit-cover.svg` for the editable cover source
 - `../../assets/xiaohongshu/2026-04-01-vertex-credit-cover.png` for the ready-to-post cover export
+- `../linkedin/2026-04-01-followup-post.md` for the matching LinkedIn follow-up angle
