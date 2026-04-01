@@ -6,18 +6,25 @@ The format follows a lightweight keep-a-changelog style.
 
 ## [Unreleased]
 
+## [0.1.9] - 2026-04-01
+
 - Published `openclaw-vertex-credit-safe-setup@1.0.2` to ClawHub after verifying
   the full repo skill bundle, not the stale workspace copy, was the published source
-- Published `openclaw-vertex-credit-safe-setup@1.0.1` to ClawHub with sharper
-  Google credits, Gemini routing, and billing-path entry copy
-- Sharpened the Vertex skill entry points and registry-facing metadata so the
-  Google credits, Gemini routing, and billing-path story is easier to follow
 - Published `openclaw-vertex-credit-safe-setup@1.0.0` to ClawHub and synced the
   public repo status
 - Expanded the Vertex setup skill with examples, customization guidance, and a
   first skill release note for ClawHub evaluation
+- Sharpened the Vertex skill entry points and registry-facing metadata so the
+  Google credits, Gemini routing, and billing-path story is easier to follow
+- Added repository-side Xiaohongshu launch assets for the Vertex skill story
+
+## [0.1.8] - 2026-03-31
+
 - Added a GitHub-first public-safe skill for credit-safe Google Vertex AI setup
 - Added repository and knowledge-base references for the new Vertex setup skill
+
+## [0.1.7] - 2026-03-30
+
 - Quota-aware switching now uses public-safe config variables for threshold,
   target model, and agent list defaults
 - README and Feishu knowledge-base docs now foreground the public-safe

@@ -19,6 +19,7 @@ required=(
   "releases/0.1.6.md"
   "releases/0.1.7.md"
   "releases/0.1.8.md"
+  "releases/0.1.9.md"
   "skills/family-homework-pomodoro/SKILL.md"
   "skills/family-homework-pomodoro/README.md"
   "skills/family-homework-pomodoro/agents/openai.yaml"
@@ -28,6 +29,8 @@ required=(
   "skills/openclaw-vertex-credit-safe-setup/agents/openai.yaml"
   "skills/openclaw-vertex-credit-safe-setup/examples/README.md"
   "skills/openclaw-vertex-credit-safe-setup/releases/1.0.0.md"
+  "skills/openclaw-vertex-credit-safe-setup/releases/1.0.1.md"
+  "skills/openclaw-vertex-credit-safe-setup/releases/1.0.2.md"
 )
 
 missing=0
