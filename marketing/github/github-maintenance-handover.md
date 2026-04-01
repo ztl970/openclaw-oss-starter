@@ -91,6 +91,7 @@ GitHub 维护线程不要把它们顺手混进提交。
 - `marketing/feishu/knowledge-base/30-unified-ops-group-rules.md`
 - `marketing/feishu/knowledge-base/31-ops-group-applicability-matrix.md`
 - `marketing/feishu/knowledge-base/32-standard-group-message-templates.md`
+- `marketing/media/`
 - `scripts/`
 
 ### 处理原则
