@@ -6,6 +6,10 @@ The format follows a lightweight keep-a-changelog style.
 
 ## [Unreleased]
 
+- Added root README entrypoints so `repo-growth-operator` is discoverable from the main repository entrypoints
+- Clarified in the root README that `repo-growth-operator` is present in the repo but not yet verified as live on ClawHub
+- Reviewed current open issues against the shipped docs and helper scripts to separate resolved doc-hygiene items from still-open product work
+
 ## [0.1.9] - 2026-04-01
 
 - Published `openclaw-vertex-credit-safe-setup@1.0.2` to ClawHub after verifying

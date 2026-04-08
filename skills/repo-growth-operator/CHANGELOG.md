@@ -7,7 +7,7 @@ This changelog tracks public updates for the `repo-growth-operator` skill.
 ### Highlights
 
 - add a public README for human-facing GitHub context
-- add an initial release note for first public ClawHub publication
+- add an initial release note for the first public skill version
 - formalize the skill as a reusable growth-planning template
 
 ### Notes

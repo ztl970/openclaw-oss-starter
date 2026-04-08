@@ -17,6 +17,7 @@ execution flows, and public-safe Feishu coordination templates.
 - [Install](./INSTALL.md)
 - [Examples](./examples/)
 - [Mac deployment](./skills/mac-multi-instance-deployment/README.md)
+- [Repo growth operator](./skills/repo-growth-operator/README.md)
 - [Feishu knowledge base pack](./marketing/feishu/knowledge-base/README.md)
 - [Public-safe ops framework](./marketing/feishu/knowledge-base/36-public-safe-ops-message-templates.md)
 - [ClawHub release notes](./RELEASES.md)
@@ -33,7 +34,7 @@ point for new workflows.
 
 | Area | What you get |
 |---|---|
-| Skills | Public-safe OpenClaw skills for homework, tasks, practice sessions, and Mac deployment |
+| Skills | Public-safe OpenClaw skills for homework, tasks, practice sessions, repo follow-up planning, and Mac deployment |
 | Publishing | GitHub-first repo flow with ClawHub-ready skill packaging |
 | Operations | Feishu knowledge-base starter pages, public-safe coordination templates, and publishing checklists |
 | Goal | Reusable local AI workflow patterns without exposing private runtime state |
@@ -50,6 +51,7 @@ At a glance:
 - `practice-session-checkin`: structured practice and follow-up coordination
 - `mac-multi-instance-deployment`: generic Mac deployment and boundary setup
 - public-safe Feishu coordination and structured ops message templates
+- small repo follow-up and growth-planning workflows for public GitHub projects
 
 Together, they show a reusable pattern for public-safe workflow templates that
 can be published, installed, and adapted without exposing private runtime state.
@@ -103,6 +105,7 @@ Current focus areas include:
 - Mac multi-instance deployment
 - credit-safe Google Vertex AI setup
 - public-safe Feishu knowledge-base and structured coordination templates
+- public-safe repo follow-up and growth-planning guidance
 - confirmation-based task flows
 - completion tracking and follow-up
 
@@ -115,6 +118,7 @@ Current focus areas include:
 | `practice-session-checkin` | Structured practice intake, start confirmation, reminder flow, and follow-up tracking | `1.0.1` | [`skills/practice-session-checkin/`](./skills/practice-session-checkin/) |
 | `mac-multi-instance-deployment` | Generic Mac workspace setup, boundary docs, quickstart examples, and deployment validation | `1.0.4` | [`skills/mac-multi-instance-deployment/`](./skills/mac-multi-instance-deployment/) |
 | `openclaw-vertex-credit-safe-setup` | Use Google Cloud credits with Gemini through Vertex AI, tiny verification, and billing checks | `1.0.2` | [`skills/openclaw-vertex-credit-safe-setup/`](./skills/openclaw-vertex-credit-safe-setup/) |
+| `repo-growth-operator` | Recommend the next small visible maintenance or growth actions for a public GitHub repository | `not yet published` | [`skills/repo-growth-operator/`](./skills/repo-growth-operator/) |
 
 ### Featured Entry Point
 
@@ -143,6 +147,14 @@ If that is your specific use case, start there first:
 - confirm which Google Cloud project actually owns the credits
 - keep Gemini on the `google-vertex/...` route
 - run one tiny test and verify the `Vertex AI` billing line item before wider use
+
+### Growth Companion
+
+[`repo-growth-operator`](./skills/repo-growth-operator/README.md) is the repo
+maintenance companion template. It helps turn a shipped public repo into the
+next 1 to 7 days of visible follow-up work, such as homepage polish, release
+follow-up, issue cleanup, and one-step distribution tasks. The skill files are
+already in this repository, but ClawHub publication is not yet verified live.
 
 ## Project Positioning
 
